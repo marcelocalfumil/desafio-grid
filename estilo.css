@@ -6,6 +6,7 @@
 body{
     background-color:#8f31a7;
     font-family: Arial, Helvetica, sans-serif;
+    background: radial-gradient( rgb(56, 37, 3), rgb(2, 20, 2));
 }
 h1{
     font-size: 30px;
@@ -26,6 +27,8 @@ p{
 nav{
     background-color: orangered;
     padding: 0;
+    background: linear-gradient( to left, orange, lime);
+
 }
 ul{
     list-style: none;
@@ -40,6 +43,7 @@ footer{
     font-size: 30px;
     background-color: orangered ;
     padding: 30px;
+    background: linear-gradient( to left, orange, lime);
 }
 .nav{
     display: flex;
